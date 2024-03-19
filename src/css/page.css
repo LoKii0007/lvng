@@ -1,0 +1,221 @@
+.component-1{
+    width: 100vw;
+    border-bottom: 1px solid black;
+    overflow: hidden;
+}
+.text-head{
+    font-size: 70px;
+}
+.home-text{
+    z-index: 500;
+    width: 75%;
+    height: 70vh;
+}
+
+.home-bg{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.loading-vid{
+    width: 100vw;
+    overflow: hidden;
+}
+
+.home-lines{
+    z-index: 100;
+    top: 0%;
+    left: 0%;
+    width: 100vw;
+}
+.box-1, .box-2, .box-3{
+    border-right: 1px solid black;
+    width: 25%;
+}
+.box-1{
+    border-left: 1px solid black;
+}
+
+.box1-spacing1, .box2-spacing1{
+    height: 70vh;
+    background-color: white;
+}
+
+.box3-spacing1{
+    height: 80vh;
+    background-color: white;
+}
+
+.box1-spacing2, .box2-spacing2, .box3-spacing2{
+    height: 90vh;
+    background-color: transparent;
+}
+
+.fulfill{
+    height: 90vh;
+    z-index: 500;
+}
+
+.fulfill-middle{
+    font-size: 32px;
+}
+
+.box1-spacing3, .box2-spacing3{
+    height: 110vh;
+    background-color: white;
+}
+
+.box3-spacing3{
+    height: 80vh;
+    background-color: white;
+}
+
+.why{
+    height: 60vh;
+}
+
+.why-bg{
+    width: 75vw;
+    top: 0%;
+}
+.why-bg img{
+    width: 75vw;
+    height: 60vh;
+}
+
+.why-bg{
+    z-index: 90;
+}
+
+.why-front{
+    z-index: 500;
+    color: white;
+}
+.why-desc{
+    font-size: 50px;
+}
+
+.box1-spacing4, .box2-spacing4{
+    height: 50vh;
+    background-color: transparent;
+}
+
+.box3-spacing4{
+    height: 60vh;
+    background-color: transparent;
+}
+
+.offer{
+    height: 40vh;
+}
+
+.offer-left{
+    width: 25vw;
+    height: 40vh;
+}
+.offer-left-top , .offer-left-bottom{
+    width: 100%;
+}
+.offer-right{
+    background-color: black;
+    width: 50vw;
+    color: white;
+}
+.box1-spacing5, .box2-spacing5, .box3-spacing5{
+    height: 90vh;
+    background-color: transparent;
+}
+.offer-space{
+    height: 20vh;
+}
+
+/* ---------------------------projects ------------------------- */
+.project{
+    width: 75vw;
+}
+
+.project-img img{
+    width: 800px;
+}
+
+.alpha{
+    border:  1px solid black;
+    transform: translateX(-50px);
+    height: 400px;
+    background-color: white;
+    width: 400px;
+}
+
+.alpha-btns{
+    width: 75vw;
+}
+
+/* ------------------component 3--------------------  */
+
+.component-3{
+    padding: 0 12.5%;
+    background-color: rgba(0, 0, 0, 0.571);
+}
+
+.projects-top{
+    width: 75vw;
+    font-size: 50px;
+}
+
+.comp3-top{
+    border: 1px solid black;
+    border-top: 0cap;
+}
+
+.comp3-div{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.comp3-div6, .comp3-div3{
+    border-right: 1px solid black;
+}
+
+.comp3-space{
+    height: 200px;
+    border: 1px solid black;
+    width: 100%;
+    border-top: 0ch;
+}
+
+/* -----------------------component 4 ---------------------- */
+
+.component-4{
+    width: 100vw;
+}
+
+.comp4-front{
+    height: 100vh;
+    width: 75vw;
+    z-index: 200;
+}
+
+.comp4-lines{
+    z-index: 100;
+    top: 0%;
+    left: 0%;
+    width: 100vw;
+}
+
+.process-vid{
+    height: 300px;
+}
+
+.comp4-spacing1, .comp4-spacing2, .comp4-spacing3{
+    background-color: white;
+    height: 125vh;
+    border-bottom: 1px solid black;
+}
+
+.tech{
+    z-index: 200;
+}
+
+.tech-2{
+    font-size: 50px;
+}
