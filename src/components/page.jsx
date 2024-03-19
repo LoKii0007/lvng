@@ -224,9 +224,36 @@ export default function Page() {
                         <button>ORDER NOW</button>
                     </div>
                 </div>
-                <div className="tech d-flex flex-column p-5 justify-content-center align-items-center">
+                <div className="tech d-flex flex-column justify-content-center align-items-center">
                     <div>TECHNOLOGY & PARTNERS</div>
                     <div className='tech-2 pb-5'>Top quality solutions</div>
+                </div>
+                <div className="system">
+                    <div className="sys-1 sys d-flex justify-content-between align-items-center">
+                        <div className='col-3 px-5'>ml systems</div>
+                        <div className='col-8'>ventilated photovoltaic facade</div>
+                        <div className='col-2'>+</div>
+                    </div>
+                    <div className="sys-2 sys d-flex justify-content-between align-items-center">
+                        <div className='col-3 px-5'>ml systems</div>
+                        <div className='col-8'>ventilated photovoltaic facade</div>
+                        <div className='col-2'>+</div>
+                    </div>
+                    <div className="sys-3 sys d-flex justify-content-between align-items-center">
+                        <div className='col-3 px-5'>ml systems</div>
+                        <div className='col-8'>ventilated photovoltaic facade</div>
+                        <div className='col-2'>+</div>
+                    </div>
+                    <div className="sys-4 sys d-flex justify-content-between align-items-center">
+                        <div className='col-3 px-5'>ml systems</div>
+                        <div className='col-8'>ventilated photovoltaic facade</div>
+                        <div className='col-2'>+</div>
+                    </div>
+                    <div className="sys-5 sys d-flex justify-content-between align-items-center">
+                        <div className='col-3 px-5'>ml systems</div>
+                        <div className='col-8'>ventilated photovoltaic facade</div>
+                        <div className='col-2'>+</div>
+                    </div>
                 </div>
             </div>
         </>
